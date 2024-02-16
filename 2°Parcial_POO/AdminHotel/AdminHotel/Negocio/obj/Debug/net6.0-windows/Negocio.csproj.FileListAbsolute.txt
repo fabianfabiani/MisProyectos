@@ -1,0 +1,45 @@
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\Negocio\AdminHotel\Negocio\bin\Debug\net6.0-windows\Negocio.deps.json
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\Negocio\AdminHotel\Negocio\bin\Debug\net6.0-windows\Negocio.dll
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\Negocio\AdminHotel\Negocio\bin\Debug\net6.0-windows\Negocio.pdb
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\Negocio\AdminHotel\Negocio\bin\Debug\net6.0-windows\Datos.dll
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\Negocio\AdminHotel\Negocio\bin\Debug\net6.0-windows\Datos.pdb
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\Negocio\AdminHotel\Negocio\obj\Debug\net6.0-windows\Negocio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\Negocio\AdminHotel\Negocio\obj\Debug\net6.0-windows\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\Negocio\AdminHotel\Negocio\obj\Debug\net6.0-windows\Negocio.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\Negocio\AdminHotel\Negocio\obj\Debug\net6.0-windows\Negocio.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\Negocio\AdminHotel\Negocio\obj\Debug\net6.0-windows\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\Negocio\AdminHotel\Negocio\obj\Debug\net6.0-windows\Negocio.csproj.CopyComplete
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\Negocio\AdminHotel\Negocio\obj\Debug\net6.0-windows\Negocio.dll
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\Negocio\AdminHotel\Negocio\obj\Debug\net6.0-windows\refint\Negocio.dll
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\Negocio\AdminHotel\Negocio\obj\Debug\net6.0-windows\Negocio.pdb
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\Negocio\AdminHotel\Negocio\obj\Debug\net6.0-windows\ref\Negocio.dll
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\Negocio\bin\Debug\net6.0-windows\Negocio.deps.json
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\Negocio\bin\Debug\net6.0-windows\Negocio.dll
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\Negocio\bin\Debug\net6.0-windows\Negocio.pdb
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\Negocio\bin\Debug\net6.0-windows\Datos.dll
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\Negocio\bin\Debug\net6.0-windows\Datos.pdb
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\Negocio\obj\Debug\net6.0-windows\Negocio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\Negocio\obj\Debug\net6.0-windows\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\Negocio\obj\Debug\net6.0-windows\Negocio.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\Negocio\obj\Debug\net6.0-windows\Negocio.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\Negocio\obj\Debug\net6.0-windows\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\Negocio\obj\Debug\net6.0-windows\Negocio.csproj.CopyComplete
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\Negocio\obj\Debug\net6.0-windows\Negocio.dll
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\Negocio\obj\Debug\net6.0-windows\refint\Negocio.dll
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\Negocio\obj\Debug\net6.0-windows\Negocio.pdb
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\Negocio\obj\Debug\net6.0-windows\ref\Negocio.dll
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\Negocio\bin\Debug\net6.0-windows\Negocio.deps.json
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\Negocio\bin\Debug\net6.0-windows\Negocio.dll
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\Negocio\bin\Debug\net6.0-windows\Negocio.pdb
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\Negocio\bin\Debug\net6.0-windows\Datos.dll
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\Negocio\bin\Debug\net6.0-windows\Datos.pdb
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\Negocio\obj\Debug\net6.0-windows\Negocio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\Negocio\obj\Debug\net6.0-windows\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\Negocio\obj\Debug\net6.0-windows\Negocio.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\Negocio\obj\Debug\net6.0-windows\Negocio.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\Negocio\obj\Debug\net6.0-windows\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\Negocio\obj\Debug\net6.0-windows\Negocio.csproj.CopyComplete
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\Negocio\obj\Debug\net6.0-windows\Negocio.dll
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\Negocio\obj\Debug\net6.0-windows\refint\Negocio.dll
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\Negocio\obj\Debug\net6.0-windows\Negocio.pdb
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\Negocio\obj\Debug\net6.0-windows\ref\Negocio.dll

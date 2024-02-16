@@ -1,0 +1,45 @@
+C:\Users\Usuario\source\repos\Relaciones-Parcial\Relaciones-Parcial\bin\Debug\net6.0\Relaciones-Parcial.exe
+C:\Users\Usuario\source\repos\Relaciones-Parcial\Relaciones-Parcial\bin\Debug\net6.0\Relaciones-Parcial.deps.json
+C:\Users\Usuario\source\repos\Relaciones-Parcial\Relaciones-Parcial\bin\Debug\net6.0\Relaciones-Parcial.runtimeconfig.json
+C:\Users\Usuario\source\repos\Relaciones-Parcial\Relaciones-Parcial\bin\Debug\net6.0\Relaciones-Parcial.dll
+C:\Users\Usuario\source\repos\Relaciones-Parcial\Relaciones-Parcial\bin\Debug\net6.0\Relaciones-Parcial.pdb
+C:\Users\Usuario\source\repos\Relaciones-Parcial\Relaciones-Parcial\obj\Debug\net6.0\Relaciones-Parcial.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Relaciones-Parcial\Relaciones-Parcial\obj\Debug\net6.0\Relaciones-Parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Relaciones-Parcial\Relaciones-Parcial\obj\Debug\net6.0\Relaciones-Parcial.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Relaciones-Parcial\Relaciones-Parcial\obj\Debug\net6.0\Relaciones-Parcial.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Relaciones-Parcial\Relaciones-Parcial\obj\Debug\net6.0\Relaciones-Parcial.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Relaciones-Parcial\Relaciones-Parcial\obj\Debug\net6.0\Relaciones-Parcial.dll
+C:\Users\Usuario\source\repos\Relaciones-Parcial\Relaciones-Parcial\obj\Debug\net6.0\refint\Relaciones-Parcial.dll
+C:\Users\Usuario\source\repos\Relaciones-Parcial\Relaciones-Parcial\obj\Debug\net6.0\Relaciones-Parcial.pdb
+C:\Users\Usuario\source\repos\Relaciones-Parcial\Relaciones-Parcial\obj\Debug\net6.0\Relaciones-Parcial.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Relaciones-Parcial\Relaciones-Parcial\obj\Debug\net6.0\ref\Relaciones-Parcial.dll
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\C#POO\Relaciones-Parcial\Relaciones-Parcial\bin\Debug\net6.0\Relaciones-Parcial.exe
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\C#POO\Relaciones-Parcial\Relaciones-Parcial\bin\Debug\net6.0\Relaciones-Parcial.deps.json
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\C#POO\Relaciones-Parcial\Relaciones-Parcial\bin\Debug\net6.0\Relaciones-Parcial.runtimeconfig.json
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\C#POO\Relaciones-Parcial\Relaciones-Parcial\bin\Debug\net6.0\Relaciones-Parcial.dll
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\C#POO\Relaciones-Parcial\Relaciones-Parcial\bin\Debug\net6.0\Relaciones-Parcial.pdb
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\C#POO\Relaciones-Parcial\Relaciones-Parcial\obj\Debug\net6.0\Relaciones-Parcial.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\C#POO\Relaciones-Parcial\Relaciones-Parcial\obj\Debug\net6.0\Relaciones-Parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\C#POO\Relaciones-Parcial\Relaciones-Parcial\obj\Debug\net6.0\Relaciones-Parcial.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\C#POO\Relaciones-Parcial\Relaciones-Parcial\obj\Debug\net6.0\Relaciones-Parcial.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\C#POO\Relaciones-Parcial\Relaciones-Parcial\obj\Debug\net6.0\Relaciones-Parcial.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\C#POO\Relaciones-Parcial\Relaciones-Parcial\obj\Debug\net6.0\Relaciones-Parcial.dll
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\C#POO\Relaciones-Parcial\Relaciones-Parcial\obj\Debug\net6.0\refint\Relaciones-Parcial.dll
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\C#POO\Relaciones-Parcial\Relaciones-Parcial\obj\Debug\net6.0\Relaciones-Parcial.pdb
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\C#POO\Relaciones-Parcial\Relaciones-Parcial\obj\Debug\net6.0\Relaciones-Parcial.genruntimeconfig.cache
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\C#POO\Relaciones-Parcial\Relaciones-Parcial\obj\Debug\net6.0\ref\Relaciones-Parcial.dll
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\C#POO\Relaciones-Parcial\Relaciones-Parcial\bin\Debug\net6.0\Relaciones-Parcial.exe
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\C#POO\Relaciones-Parcial\Relaciones-Parcial\bin\Debug\net6.0\Relaciones-Parcial.deps.json
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\C#POO\Relaciones-Parcial\Relaciones-Parcial\bin\Debug\net6.0\Relaciones-Parcial.runtimeconfig.json
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\C#POO\Relaciones-Parcial\Relaciones-Parcial\bin\Debug\net6.0\Relaciones-Parcial.dll
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\C#POO\Relaciones-Parcial\Relaciones-Parcial\bin\Debug\net6.0\Relaciones-Parcial.pdb
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\C#POO\Relaciones-Parcial\Relaciones-Parcial\obj\Debug\net6.0\Relaciones-Parcial.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\C#POO\Relaciones-Parcial\Relaciones-Parcial\obj\Debug\net6.0\Relaciones-Parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\C#POO\Relaciones-Parcial\Relaciones-Parcial\obj\Debug\net6.0\Relaciones-Parcial.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\C#POO\Relaciones-Parcial\Relaciones-Parcial\obj\Debug\net6.0\Relaciones-Parcial.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\C#POO\Relaciones-Parcial\Relaciones-Parcial\obj\Debug\net6.0\Relaciones-Parcial.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\C#POO\Relaciones-Parcial\Relaciones-Parcial\obj\Debug\net6.0\Relaciones-Parcial.dll
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\C#POO\Relaciones-Parcial\Relaciones-Parcial\obj\Debug\net6.0\refint\Relaciones-Parcial.dll
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\C#POO\Relaciones-Parcial\Relaciones-Parcial\obj\Debug\net6.0\Relaciones-Parcial.pdb
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\C#POO\Relaciones-Parcial\Relaciones-Parcial\obj\Debug\net6.0\Relaciones-Parcial.genruntimeconfig.cache
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\C#POO\Relaciones-Parcial\Relaciones-Parcial\obj\Debug\net6.0\ref\Relaciones-Parcial.dll

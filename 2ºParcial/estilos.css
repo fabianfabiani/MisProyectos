@@ -1,0 +1,53 @@
+#dform .formulario {
+    width: 250px;
+    background-color: black;
+    color: white;
+    padding-left: 60px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#dform {
+    display: flex;
+    flex-direction: column;
+    /* align-items: center;  */
+    justify-content: center;
+    align-items: center;
+}
+
+#user,
+#pass {
+    color: yellow;
+    background-color: rgb(168, 168, 168);
+}
+
+body{
+    background-color: black;
+    color: aliceblue;
+}
+
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#titulo{
+    width: 200px;
+    height: 100px;
+    padding: 10px;
+    background-color: rgb(41, 41, 197);
+    text-align: center;
+
+}
+#datos{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 200px;
+    height: 150px;
+    background-color: rgb(58, 33, 0);
+    padding-left: 20px;
+    padding-top: 10px;
+    margin-bottom: 5px;
+}
+h4{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+

@@ -1,0 +1,89 @@
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\Negocio\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.exe
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\Negocio\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.deps.json
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\Negocio\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.runtimeconfig.json
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\Negocio\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.dll
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\Negocio\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.pdb
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\Negocio\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\Negocio\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\Negocio\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\Negocio\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\Negocio\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\Negocio\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\Negocio\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\Datos.dll
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\Negocio\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\Negocio.dll
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\Negocio\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\Negocio.pdb
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\Negocio\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\Datos.pdb
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\Negocio\AdminHotel\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\Negocio\AdminHotel\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Fmain.resources
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\Negocio\AdminHotel\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Form1.resources
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\Negocio\AdminHotel\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\Negocio\AdminHotel\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\Negocio\AdminHotel\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\Negocio\AdminHotel\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\Negocio\AdminHotel\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\Negocio\AdminHotel\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.CopyComplete
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\Negocio\AdminHotel\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.dll
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\Negocio\AdminHotel\FrontEnd\obj\Debug\net6.0-windows\refint\FrontEnd.dll
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\Negocio\AdminHotel\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.pdb
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\Negocio\AdminHotel\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.genruntimeconfig.cache
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\Negocio\AdminHotel\FrontEnd\obj\Debug\net6.0-windows\ref\FrontEnd.dll
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.exe
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.deps.json
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.runtimeconfig.json
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.dll
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.pdb
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\Datos.dll
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\Negocio.dll
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\Negocio.pdb
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\Datos.pdb
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Fhabitaciones.resources
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Fmain.resources
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Form1.resources
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.CopyComplete
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.dll
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\obj\Debug\net6.0-windows\refint\FrontEnd.dll
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.pdb
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.genruntimeconfig.cache
+C:\Users\Usuario\Documents\ISTEA\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\obj\Debug\net6.0-windows\ref\FrontEnd.dll
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.exe
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.deps.json
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.runtimeconfig.json
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.dll
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\FrontEnd.pdb
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\Datos.dll
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\Negocio.dll
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\Negocio.pdb
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\bin\Debug\net6.0-windows\Datos.pdb
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Fhabitaciones.resources
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Fmain.resources
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.Form1.resources
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.csproj.CopyComplete
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.dll
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\obj\Debug\net6.0-windows\refint\FrontEnd.dll
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.pdb
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\obj\Debug\net6.0-windows\FrontEnd.genruntimeconfig.cache
+C:\Users\Usuario\Documents\ISTEA\2º Cuatrimestre\Programacion Orientada a Bojetos\2ºParcialPOO\AdminHotel\2ºParcialPOO\AdminHotel\FrontEnd\obj\Debug\net6.0-windows\ref\FrontEnd.dll

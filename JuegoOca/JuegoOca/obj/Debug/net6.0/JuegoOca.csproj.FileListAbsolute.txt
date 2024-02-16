@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\JuegoOca\JuegoOca\bin\Debug\net6.0\JuegoOca.exe
+C:\Users\Usuario\source\repos\JuegoOca\JuegoOca\bin\Debug\net6.0\JuegoOca.deps.json
+C:\Users\Usuario\source\repos\JuegoOca\JuegoOca\bin\Debug\net6.0\JuegoOca.runtimeconfig.json
+C:\Users\Usuario\source\repos\JuegoOca\JuegoOca\bin\Debug\net6.0\JuegoOca.dll
+C:\Users\Usuario\source\repos\JuegoOca\JuegoOca\bin\Debug\net6.0\JuegoOca.pdb
+C:\Users\Usuario\source\repos\JuegoOca\JuegoOca\obj\Debug\net6.0\JuegoOca.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\JuegoOca\JuegoOca\obj\Debug\net6.0\JuegoOca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\JuegoOca\JuegoOca\obj\Debug\net6.0\JuegoOca.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\JuegoOca\JuegoOca\obj\Debug\net6.0\JuegoOca.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\JuegoOca\JuegoOca\obj\Debug\net6.0\JuegoOca.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\JuegoOca\JuegoOca\obj\Debug\net6.0\JuegoOca.dll
+C:\Users\Usuario\source\repos\JuegoOca\JuegoOca\obj\Debug\net6.0\refint\JuegoOca.dll
+C:\Users\Usuario\source\repos\JuegoOca\JuegoOca\obj\Debug\net6.0\JuegoOca.pdb
+C:\Users\Usuario\source\repos\JuegoOca\JuegoOca\obj\Debug\net6.0\JuegoOca.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\JuegoOca\JuegoOca\obj\Debug\net6.0\ref\JuegoOca.dll

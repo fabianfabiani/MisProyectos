@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\RecuParcial2\RecuParcial2\obj\Debug\net6.0\RecuParcial2.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\RecuParcial2\RecuParcial2\obj\Debug\net6.0\RecuParcial2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\RecuParcial2\RecuParcial2\obj\Debug\net6.0\RecuParcial2.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\RecuParcial2\RecuParcial2\obj\Debug\net6.0\RecuParcial2.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\RecuParcial2\RecuParcial2\obj\Debug\net6.0\RecuParcial2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\RecuParcial2\RecuParcial2\bin\Debug\net6.0\RecuParcial2.exe
+C:\Users\Usuario\source\repos\RecuParcial2\RecuParcial2\bin\Debug\net6.0\RecuParcial2.deps.json
+C:\Users\Usuario\source\repos\RecuParcial2\RecuParcial2\bin\Debug\net6.0\RecuParcial2.runtimeconfig.json
+C:\Users\Usuario\source\repos\RecuParcial2\RecuParcial2\bin\Debug\net6.0\RecuParcial2.dll
+C:\Users\Usuario\source\repos\RecuParcial2\RecuParcial2\bin\Debug\net6.0\RecuParcial2.pdb
+C:\Users\Usuario\source\repos\RecuParcial2\RecuParcial2\obj\Debug\net6.0\RecuParcial2.dll
+C:\Users\Usuario\source\repos\RecuParcial2\RecuParcial2\obj\Debug\net6.0\refint\RecuParcial2.dll
+C:\Users\Usuario\source\repos\RecuParcial2\RecuParcial2\obj\Debug\net6.0\RecuParcial2.pdb
+C:\Users\Usuario\source\repos\RecuParcial2\RecuParcial2\obj\Debug\net6.0\RecuParcial2.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\RecuParcial2\RecuParcial2\obj\Debug\net6.0\ref\RecuParcial2.dll

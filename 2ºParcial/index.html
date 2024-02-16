@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estilos.css">
+    <script src="codigo.js"></script>
+    <title>2º Parcial</title>
+</head>
+<body>
+    <section id="titulo">
+        <h1>2º Parcial</h1>
+        <h4>Fabian Fabiani</h4>
+    </section>
+    <section id="datos">
+        <h4>Datos</h4>
+        <p>juanperez@gmail.com</p>
+        <p>1787742836863899</p>
+    </section>
+    <div id="dform">
+        <div>
+            <form class="formulario">
+                <label id="label_user">Ingrese su email</label><br>
+                <input type="email" id="user" placeholder="Ingrese usuario" required><br>
+
+                <label id="label_contraseña">Ingrese su contraseña</label><br>
+                <input type="password" id="pass" placeholder="Ingrese su contraseña" required minlength="8"
+                    maxlength="25"><br>
+            </form>
+        </div>
+        <div>
+            <button onclick="validar()">VALIDAR</button>
+        </div>
+    </div>
+</body>
+
+</html>
